@@ -50,8 +50,8 @@ Collection of DSA problems and Python practice
 
 ## 📫 Contact
 
-- LinkedIn: _Add your link here_
-- Email: _Add your email here_
+- LinkedIn: _www.linkedin.com/in/vijay-barhate_
+- Email: _barhatevinay7777@gmail.com_
 
 ---
 
