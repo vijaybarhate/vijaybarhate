@@ -1,58 +1,57 @@
-```markdown
 # Hi, I'm Vijay 👋
 
-🎓 B.E. Computer Engineering student (University of Mumbai)  
-💻 Interested in Software Development, Data Analytics, and AI/ML  
-🚀 Building projects to improve problem-solving and real-world skills  
+🎓 B.E. Computer Engineering student (University of Mumbai)
+💻 Interested in Software Development, Data Analytics, and AI/ML
+🚀 Building projects to improve problem-solving and real-world skills
 
 ---
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-grey)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms (DSA)  
-- SQL & Data Analysis  
-- Basics of Machine Learning  
+- Data Structures & Algorithms (DSA)
+- SQL & Data Analysis
+- Basics of Machine Learning
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎵 [Jamify Music Player](https://github.com/vijaybarhate/Jamify-Music-Player)
-Web-based music player with dark mode, favorites, and search features  
+Web-based music player with dark mode, favorites, and search features
 
 ### 🎓 [MHT-CET Cutoff Processor](https://github.com/vijaybarhate/mht-cet-college-cutoff-processor)
-Python tool to convert cutoff PDFs into CSV for analysis  
+Python tool to convert cutoff PDFs into CSV for analysis
 
 ### 🧠 [Python DSA Practice](https://github.com/vijaybarhate/python-dsa-practice)
-Collection of DSA problems and Python practice  
+Collection of DSA problems and Python practice
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: _Add your link here_  
-- Email: _Add your email here_  
+- LinkedIn: _Add your link here_
+- Email: _Add your email here_
 
 ---
 
