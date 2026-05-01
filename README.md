@@ -34,12 +34,6 @@
 ### 🎵 [Jamify Music Player](https://github.com/vijaybarhate/Jamify-Music-Player)
 Web-based music player with dark mode, favorites, and search features
 
-### 🎓 [MHT-CET Cutoff Processor](https://github.com/vijaybarhate/mht-cet-college-cutoff-processor)
-Python tool to convert cutoff PDFs into CSV for analysis
-
-### 🧠 [Python DSA Practice](https://github.com/vijaybarhate/python-dsa-practice)
-Collection of DSA problems and Python practice
-
 ---
 
 ## 📊 GitHub Stats
