@@ -38,7 +38,11 @@ Web-based music player with dark mode, favorites, and search features
 
 ## 📊 GitHub Stats
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true&theme=dark)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaybarhate&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vijaybarhate&theme=tokyonight)
 
 ---
 
