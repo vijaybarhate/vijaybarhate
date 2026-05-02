@@ -38,6 +38,7 @@ Web-based music player with dark mode, favorites, and search features
 
 ## 📊 GitHub Stats
 <!-- Temporarily removed due to API downtime -->
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
