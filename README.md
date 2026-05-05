@@ -1,20 +1,20 @@
 # Hi, I'm Vijay 👋
 
-🎓 B.E. Computer Engineering student at the University of Mumbai  
-💻 Interested in Software Development, Data Analytics, and SQL-based Projects  
-🚀 Building practical projects to strengthen my problem-solving and job readiness  
+🎓 B.E. Computer Engineering student (University of Mumbai)  
+💻 Interested in Software Development, Data Analytics, and SQL  
+🚀 Building practical projects to improve problem-solving and job readiness  
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I am a fresher focused on learning through hands-on projects.  
-I enjoy building simple but useful applications that combine coding, data, and logic.  
-My goal is to keep improving my technical skills and create a portfolio that shows consistency, clarity, and real work.
+I build simple, practical applications combining coding, data, and logic.  
+Currently working on improving consistency, project quality, and real-world problem-solving.
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 ### Programming & Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,47 +35,58 @@ My goal is to keep improving my technical skills and create a portfolio that sho
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Data Structures & Algorithms (DSA)
-- SQL and Database Design
+- SQL & Database Design
 - Python for Data Analysis
 - Basics of Machine Learning
-- Building better GitHub projects and documentation
+- Writing better project documentation
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🎓 Student Result Analyzer
-A Python project that generates student data, analyzes performance, and creates visual reports like grade distribution, top students, subject averages, and pass/fail ratio.  
-Repository: `student-result-analyzer`
+### 🎓 Student Result Analyzer  
+Python project to generate and analyze student performance with visual reports.  
+🔗 https://github.com/vijaybarhate/student-result-analyzer  
 
-### 💰 School Fee Management
-A MySQL-based management system for handling student and fee records with dummy data and structured database design.  
-Repository: `School-Fee-Management`
+### 💰 School Fee Management  
+MySQL-based system for managing student and fee records.  
+🔗 https://github.com/vijaybarhate/School-Fee-Management  
 
-### 📊 Expense Tracker with SQL
-A project for adding, viewing, searching, and summarizing expenses using SQL.  
-Repository: `expense-tracker-sql`
+### 📊 Expense Tracker (SQL)  
+SQL project to track, search, and summarize expenses.  
+🔗 https://github.com/vijaybarhate/expense-tracker-sql  
 
-### 🎵 Jamify Music Player
-A web-based music player project with dark mode, search, favorites, and track details.  
-Repository: `Jamify-Music-Player`
-
----
-
-## GitHub Stats
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true&theme=dark&hide_border=true)
+### 🎵 Jamify Music Player  
+Web-based music player with dark mode, search, and favorites.  
+🔗 https://github.com/vijaybarhate/Jamify-Music-Player  
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-- LinkedIn: `www.linkedin.com/in/vijay-barhate`
-- Email: `barhatevinay7777@gmail.com`
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaybarhate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaybarhate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=vijaybarhate&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-⭐ Always open to learning, collaboration, and internship opportunities.
+## 📫 Contact
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/vijay-barhate  
+- 📧 Email: barhatevinay7777@gmail.com  
+
+---
+
+⭐ Open to internships, collaboration, and learning opportunities.
